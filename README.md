@@ -6,7 +6,7 @@ Este é um projeto que implementa uma API que gera uma ordem de compra das moeda
 
 Este projeto consome uma API externa para obter cotações de moedas estrangeiras. A API externa usada é a [Awesome API de Economia](https://economia.awesomeapi.com.br/). Ela fornece cotações em tempo real para várias moedas, incluindo o dólar (USD) e o euro (EUR). A aplicação realiza chamadas apropriadas a esta API para obter cotações atualizadas das moedas.
 
-### URLs da API externa:
+## URLs da API externa:
 
 - [Cotação do Dólar (USD)](https://economia.awesomeapi.com.br/USD/)
 - [Cotação do Euro (EUR)](https://economia.awesomeapi.com.br/EUR/)
@@ -35,7 +35,7 @@ Execute a aplicação Spring Boot.
 
 Acesse a API através dos endpoints definidos para realizar operações CRUD e criar ordens de compra.
 
-#Endpoints
+##Endpoints
 
 POST /cliente: Cria um novo cliente.
 
